@@ -1,5 +1,5 @@
 Karthik Fitness
-Karthik Fitness is a website designed to promote a fitness center located in Udupi, India. The website features a clean and modern design, with a focus on providing a seamless user experience.
+Karthik Fitness is a website designed to promote a fitness center located in Udupi, India. The website features a clean and modern design, with a focus on providing a seamless user experience.uploaded to github after 2 years
 Features
 Header: The header includes the Karthik Fitness logo, a navigation menu, and two call-to-action buttons (call us now and email us).
 Background Image: The website uses a full-screen background image to create a visually appealing and immersive experience.
